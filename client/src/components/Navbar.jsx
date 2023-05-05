@@ -124,15 +124,8 @@ const Navbar = () => {
             funds, (One person in particular, created a campaign to raise funds
             for a medical expense), Please let me know if you want me to deploy
             this platform on Ethereum Mainnet so that you can raise REAL money
-            and get REAL support for your cause. You visit my profile{' '}
-            <a
-              className="text-blue-500 font-bold"
-              href="https://devfoliomoonman369.netlify.app/#contact"
-              target="_blank"
-            >
-              HERE
-            </a>{' '}
-            and contact me from there. I really look forward to hearing from you
+            and get REAL support for your cause.{' '}
+            Contact me from there. I really look forward to hearing from you
             guys.
           </p>
           <CustomButton
